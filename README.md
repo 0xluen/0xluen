@@ -25,16 +25,12 @@
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 
-<center>
-<p align="center">
-   <details>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinyordes&theme=transparent" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sinyordes&hide_border=true&card_width=338&theme=transparent" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinyordes&theme=transparent" />
-   </details>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinyordes&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-</p>
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
+</a>
 
-   </center>
-
+<br>
