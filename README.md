@@ -23,8 +23,9 @@
    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
    <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="cplusplus" width="40" height="40"/> </a>
-
-    <a href="https://docs.vyperlang.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://docs.vyperlang.org/en/stable/_images/vyper-logo-transparent.svg" alt="cplusplus" width="40" height="40"/> </a>
+    <a href="https://docs.vyperlang.org/en/stable/" target="_blank" rel="noreferrer"> 
+    <img src="https://docs.vyperlang.org/en/stable/_images/vyper-logo-transparent.svg" alt="cplusplus" width="40" height="40"/> 
+    </a>
 </p>
 <center>
 
