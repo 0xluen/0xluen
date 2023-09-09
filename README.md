@@ -31,9 +31,7 @@
     </a>
      <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a>
 </p>
-<center>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xluen&show_icons=true&locale=en&layout=compact" alt="0xluen" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xluen&show_icons=true&locale=en&layout=compact" alt="0xluen" /></p>
 
-</center>
 
