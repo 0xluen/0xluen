@@ -26,9 +26,7 @@
     <a href="https://docs.vyperlang.org/en/stable/" target="_blank" rel="noreferrer"> 
     <img src="https://docs.vyperlang.org/en/stable/_images/vyper-logo-transparent.svg" alt="cplusplus" width="40" height="40"/> 
     </a>
-   <a href="https://cairo-by-example.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cairo-by-example.com/img/cairo.png" alt="cplusplus" width="40" height="40"/> 
-    </a>
+ 
      <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a>
 </p>
 
