@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinyordes&label=Profile%20views&color=0e75b6&style=flat" alt="sinyordes" /> </p>
 
-<p align="left"> <a href="https://twitter.com/0xluen" target="blank"><img src="https://img.shields.io/twitter/follow/0xluen?logo=twitter&style=for-the-badge" alt="0xluen" /></a> </p>
-
-- 📫 How to reach me **0xluen@protonmail.com**
+- 📫 How to reach me **nftmufettisi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
