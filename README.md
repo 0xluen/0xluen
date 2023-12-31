@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luen</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinyordes&label=Profile%20views&color=0e75b6&style=flat" alt="sinyordes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xluen&label=Profile%20views&color=0e75b6&style=flat" alt="sinyordes" /> </p>
 
 - 📫 How to reach me **nftmufettisi@gmail.com**
 
