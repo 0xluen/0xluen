@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xluen" target="blank"><img src="https://img.shields.io/twitter/follow/0xluen?logo=twitter&style=for-the-badge" alt="0xluen" /></a> </p>
 
-[![Play 🎵](https://img.shields.io/badge/Play-Music-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=zF5Ddo9JdpY)
+[![Play 🎵](https://img.shields.io/badge/Play-Music-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=ccu6JuC21rk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
